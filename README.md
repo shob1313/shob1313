@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shobith</h1>
 <h3 align="center">I am a skilled Java developer with expertise in cloud services, passionate about coding and actively contributing to front-end development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shob1313&label=Profile%20views&color=0e75b6&style=flat" alt="shob1313" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shob1313&label=Profile%20views&color=0e75b6&style=flat" alt="shob1313" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shob1313" alt="shob1313" /></a> </p>
 
